@@ -1,0 +1,24 @@
+{
+    "tables": [
+        {
+            "name": "country",
+            "API": "/api/country"
+        },
+        {
+            "name": "state",
+            "API": "/api/state"
+        },
+        {
+            "name": "city",
+            "API": "/api/city"
+        },
+        {
+            "name": "block",
+            "API": "/api/block"
+        },
+        {
+            "name": "village",
+            "API": "/api/village"
+        }
+    ]
+}
