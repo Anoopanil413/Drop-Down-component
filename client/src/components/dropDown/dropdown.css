@@ -1,8 +1,8 @@
 .container {
-    display: grid;
+    display: flex;
+    flex-direction: column;
     justify-content: center;
     align-items: center;
-    height: 100vh; 
   }
 
 
@@ -10,7 +10,7 @@
     width: 200px;
     height: 35px;
     border: none;
-    margin: 10px;
+    margin: 5px;
     padding: 5px;
     border-radius: 5px;
     background: #f2f2f2;
@@ -41,6 +41,7 @@
   table {
     border-collapse: collapse;
     margin-top: 16px;
+    width: 40%;
   }
   
   th,
